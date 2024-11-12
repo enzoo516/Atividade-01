@@ -11,6 +11,7 @@ Lucas Moreira da Silva PC3018547
 
 Wesley Charles Moreira dos Anjos PC 3011267
 
+<span style="font-size: 20px;">Este texto está maior</span>
 
 ##Descrição
 
