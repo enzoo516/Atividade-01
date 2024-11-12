@@ -22,7 +22,7 @@ Instruções de Uso
 
 1. Execute o script em um ambiente que suporte a webcam.
 
-2. Uma janela com sliders para definir os valores de cor será aberta. Você deve ajustar os valores para definir duas cores distintas que serão rastreadas pela câmera.
+2. Serão abertas duas janelas, uma com sliders para definir duas cores distintas que serão rastreadas pela câmera, e outra com o jogo.
 
 3. A cada frame, o programa irá rastrear as cores e ajustar a posição das barras no jogo Pong com base nas posições detectadas.
 
