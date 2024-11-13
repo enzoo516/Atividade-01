@@ -11,13 +11,13 @@ Lucas Moreira da Silva PC3018547
 
 Wesley Charles Moreira dos Anjos PC 3011267
 
-#Descrição
+# Descrição
 
 Este projeto é uma aplicação de jogo Pong que utiliza rastreamento de cor via webcam. As barras do jogo são controladas pelo movimento de objetos coloridos detectados pela câmera. O jogo é desenvolvido em Python utilizando as bibliotecas OpenCV e Pygame, que permitem combinar rastreamento de cor e criação de uma interface gráfica.
 
 O rastreamento de cor está predefinido para vermelho e verde, porém pode ser configurado com as trackbars, ajustando os valores de Hue, Saturação e Valor (HSV).
 
-#Instruções de Uso
+# Instruções de Uso
 
 1. Execute o script em um ambiente que suporte a webcam.
 
